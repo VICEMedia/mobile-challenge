@@ -4,9 +4,16 @@
 
 Create an iOS or Android application that displays information received over the network.
 
-The app will be using [The Movie Database API](https://www.themoviedb.org/documentation/api). Follow the steps in their site to get an API Key. 
+The app will be using [The Movie Database API](https://www.themoviedb.org/documentation/api).
 
-Note: You are free to use any libraries you see fit for this project.
+Steps to get API Key:
+- Signup in the site
+- Verify Email address
+- Sign in and go to: https://www.themoviedb.org/settings/api
+- Click on `Generate a new API key`. Generate the API Key type as `Developer`
+- Follow steps and fill out any information needed.
+
+**Note:** You are free to use any libraries you see fit for this project.
 
 We would like the app to display:
 
