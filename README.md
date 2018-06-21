@@ -1,35 +1,35 @@
 # Mobile Developer Challenge
 
-## Challenge
+## App Challenge
 
-Create an iOS or Android application that displays information received over the network.
+Create an iOS or Android application that retrieves data over the network and displays for the user
 
 The app will be using [The Movie Database API](https://www.themoviedb.org/documentation/api).
 
 Steps to get API Key:
-- Signup in the site
+- Signup for an account
 - Verify Email address
 - Sign in and go to: https://www.themoviedb.org/settings/api
 - Click on `Generate a new API key`. Generate the API Key type as `Developer`
 - Follow steps and fill out any information needed.
 
-**Note:** You are free to use any libraries you see fit for this project.
+**Note:** You are free to use any libraries you see fit for this project, though you may be asked about their use.
 
 We would like the app to display:
 
 #### Main Screen
 - Home Tab:
-  - Should display an scrollable carousel with `Now Playing` movies and below display a list of `Most Popular` or `Highest rated` movies. Both carousel and list items should be clickable and trigger the Movie Details Screen. In each item display thumbnail, title and genre of the movie.
+  - This section is divided into upper and lower, each containing a horizontal carousel. The upper carousel should display `Now Playing` movies and the lower carousel display `Most Popular` movies. Each item should display a thumbnail and title of the movie. Items in both carousels should be clickable and trigger the Movie Details Screen.
 
 - Favorites Tab:
-  - Save favorite movies for viewing when offline. List should be clickable and trigger Movie Details Screen.
+  - Displays a list of the movies that a user has marked as 'favorites'. This list should be persisted for viewing even when offline. A list item should be clickable and trigger Movie Details Screen. A user should be able to remove a movie from their favorites list.
 
 #### Movie Details Screen
-- Should display movie specific data such as title, released date, rating, overview, trailers and reviews(if there are any).
-- Show a button to save movie to favorites.
+- Display the movie poster
+- Display pertinent details for the specific movie including title, genre(s), release date, rating, overview.
+- Provides a button that allows a user to save this movie to their favorites list.
 
 
 ## Submitting
 
-Please provide a github repository. 
-
+Please provide a github repository.
