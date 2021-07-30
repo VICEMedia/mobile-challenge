@@ -4,6 +4,8 @@
 
 Create an iOS or Android application that retrieves data over the network and displays for the user
 
+The app should be written in Swift **or** Kotlin.
+
 The app will be using [The Movie Database API](https://www.themoviedb.org/documentation/api).
 
 Steps to get API Key:
