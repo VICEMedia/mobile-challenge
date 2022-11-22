@@ -2,9 +2,9 @@
 
 ## App Challenge
 
-Create an iOS or Android application that retrieves data over the network and displays for the user
+Create an iOS application that retrieves data over the network and displays for the user.
 
-The app should be written in Swift **or** Kotlin.
+The app's UI should be written using SwiftUI.
 
 The app will be using [The Movie Database API](https://www.themoviedb.org/documentation/api).
 
@@ -15,7 +15,9 @@ Steps to get API Key:
 - Click on `Generate a new API key`. Generate the API Key type as `Developer`
 - Follow steps and fill out any information needed.
 
-**Note:** You are free to use any libraries you see fit for this project, though you may be asked about their use.
+**Additional Notes:**
+- You are free to use creative liberties as you would like in terms of visuals - don't be afraid to be creative.
+- You are free to use any libraries you see fit for this project, though you may be asked about their use.
 
 We would like the app to display:
 
